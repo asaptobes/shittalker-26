@@ -1,0 +1,1186 @@
+{
+  "phrases": [
+    {
+      "category": "Responses",
+      "text": "Maybe",
+      "offset": "0x135ee"
+    },
+    {
+      "category": "Responses",
+      "text": "I will.",
+      "offset": "0x13622"
+    },
+    {
+      "category": "Responses",
+      "text": "I don't know",
+      "offset": "0x13658"
+    },
+    {
+      "category": "Responses",
+      "text": "I think so.",
+      "offset": "0x13693"
+    },
+    {
+      "category": "Responses",
+      "text": "That is nice.",
+      "offset": "0x136cd"
+    },
+    {
+      "category": "Responses",
+      "text": "Wow, cool.",
+      "offset": "0x13709"
+    },
+    {
+      "category": "Responses",
+      "text": "Hello",
+      "offset": "0x13742"
+    },
+    {
+      "category": "Responses",
+      "text": "Goodbye",
+      "offset": "0x13776"
+    },
+    {
+      "category": "Responses",
+      "text": "Thank you",
+      "offset": "0x137ac"
+    },
+    {
+      "category": "Responses",
+      "text": "You're welcome",
+      "offset": "0x137e4"
+    },
+    {
+      "category": "Responses",
+      "text": "What?",
+      "offset": "0x13854"
+    },
+    {
+      "category": "Responses",
+      "text": "Where?",
+      "offset": "0x13888"
+    },
+    {
+      "category": "Responses",
+      "text": "When?",
+      "offset": "0x138f0"
+    },
+    {
+      "category": "Responses",
+      "text": "Well?",
+      "offset": "0x13957"
+    },
+    {
+      "category": "Responses",
+      "text": "I just want to talk.",
+      "offset": "0x13a1d"
+    },
+    {
+      "category": "Responses",
+      "text": "I am confused",
+      "offset": "0x13a60"
+    },
+    {
+      "category": "Responses",
+      "text": "I will be over soon.",
+      "offset": "0x13a9c"
+    },
+    {
+      "category": "Responses",
+      "text": "I need to talk to you.",
+      "offset": "0x13adf"
+    },
+    {
+      "category": "Responses",
+      "text": "i have a cold",
+      "offset": "0x13b24"
+    },
+    {
+      "category": "Responses",
+      "text": "I have about 6 myself.",
+      "offset": "0x13b60"
+    },
+    {
+      "category": "Responses",
+      "text": "Why not?",
+      "offset": "0x13ba5"
+    },
+    {
+      "category": "Responses",
+      "text": "Please calm down.",
+      "offset": "0x13bdc"
+    },
+    {
+      "category": "Responses",
+      "text": "Please do not shout.",
+      "offset": "0x13c1c"
+    },
+    {
+      "category": "Responses",
+      "text": "Please don't do that.",
+      "offset": "0x13c5f"
+    },
+    {
+      "category": "Responses",
+      "text": "Please say something.",
+      "offset": "0x13ca3"
+    },
+    {
+      "category": "Responses",
+      "text": "My car is broken.",
+      "offset": "0x13ce7"
+    },
+    {
+      "category": "Responses",
+      "text": "What did you call me?",
+      "offset": "0x13d27"
+    },
+    {
+      "category": "Responses",
+      "text": "What did you say?",
+      "offset": "0x13d6b"
+    },
+    {
+      "category": "Responses",
+      "text": "I have another question.",
+      "offset": "0x13dab"
+    },
+    {
+      "category": "Responses",
+      "text": "Like to do something this weekend?",
+      "offset": "0x13df1"
+    },
+    {
+      "category": "Responses",
+      "text": "Oh it is just a figure of speech.",
+      "offset": "0x13e42"
+    },
+    {
+      "category": "Responses",
+      "text": "I was wondering if you could help me.",
+      "offset": "0x13e92"
+    },
+    {
+      "category": "Responses",
+      "text": "I will call back tomorrow.",
+      "offset": "0x13ee7"
+    },
+    {
+      "category": "Responses",
+      "text": "I'm returning your phone call.",
+      "offset": "0x13f30"
+    },
+    {
+      "category": "Responses",
+      "text": "Haa ha haaaa. that is funny",
+      "offset": "0x13f7d"
+    },
+    {
+      "category": "Questions",
+      "text": "Hello, are you still there?",
+      "offset": "0x13fff"
+    },
+    {
+      "category": "Questions",
+      "text": "Do you know what time it is?",
+      "offset": "0x14049"
+    },
+    {
+      "category": "Questions",
+      "text": "Do you have any dogs?",
+      "offset": "0x14094"
+    },
+    {
+      "category": "Questions",
+      "text": "Do you have any children?",
+      "offset": "0x140d8"
+    },
+    {
+      "category": "Questions",
+      "text": "Do you have bikes?",
+      "offset": "0x14120"
+    },
+    {
+      "category": "Questions",
+      "text": "Don't you remember me?",
+      "offset": "0x14161"
+    },
+    {
+      "category": "Questions",
+      "text": "Do you dance?",
+      "offset": "0x141a6"
+    },
+    {
+      "category": "Questions",
+      "text": "Can I come over?",
+      "offset": "0x141e2"
+    },
+    {
+      "category": "Questions",
+      "text": "Can I talk to someone else?",
+      "offset": "0x14221"
+    },
+    {
+      "category": "Questions",
+      "text": "Are you busy tonight?",
+      "offset": "0x1426b"
+    },
+    {
+      "category": "Questions",
+      "text": "Can we meet?",
+      "offset": "0x142af"
+    },
+    {
+      "category": "Questions",
+      "text": "Can I ask you a question?",
+      "offset": "0x142ea"
+    },
+    {
+      "category": "Questions",
+      "text": "About how long does that take?",
+      "offset": "0x14332"
+    },
+    {
+      "category": "Questions",
+      "text": "Will you be there?",
+      "offset": "0x1437f"
+    },
+    {
+      "category": "Questions",
+      "text": "Can i speak with a manager?",
+      "offset": "0x143c0"
+    },
+    {
+      "category": "Questions",
+      "text": "What time are you open until?",
+      "offset": "0x1440a"
+    },
+    {
+      "category": "Questions",
+      "text": "Is that OK?",
+      "offset": "0x14456"
+    },
+    {
+      "category": "Questions",
+      "text": "Is *random name* there?",
+      "offset": "0x14490"
+    },
+    {
+      "category": "Miscellaneous",
+      "text": "Robots are very strong.",
+      "offset": "0x144f2"
+    },
+    {
+      "category": "Miscellaneous",
+      "text": "I'm selling robot insurance.",
+      "offset": "0x14538"
+    },
+    {
+      "category": "Miscellaneous",
+      "text": "Send me some parts.",
+      "offset": "0x14583"
+    },
+    {
+      "category": "Miscellaneous",
+      "text": "There is a reason for all of this.",
+      "offset": "0x145c4"
+    },
+    {
+      "category": "Miscellaneous",
+      "text": "I'm not joking around anymore.",
+      "offset": "0x14616"
+    },
+    {
+      "category": "Miscellaneous",
+      "text": "Fuck you!",
+      "offset": "0x1467f"
+    },
+    {
+      "category": "Miscellaneous",
+      "text": "Shut up.",
+      "offset": "0x146b7"
+    },
+    {
+      "category": "Miscellaneous",
+      "text": "Asshole",
+      "offset": "0x146ee"
+    },
+    {
+      "category": "Miscellaneous",
+      "text": "Eat my shit.",
+      "offset": "0x14724"
+    },
+    {
+      "category": "Miscellaneous",
+      "text": "Go to hell.",
+      "offset": "0x1475f"
+    },
+    {
+      "category": "Miscellaneous",
+      "text": "Monkey face",
+      "offset": "0x147bc"
+    }
+  ],
+  "random": [
+    "I have legs, twice.",
+    "The golden flywheel mice too, johnny!",
+    "Where's my necks, are you?",
+    "Give me cotten dogs please.",
+    "The four wax rabbits are here.",
+    "You had better pay respects to the food wall!",
+    "My shoes are broken...",
+    "I have sandwiches.",
+    "Our friend here, can't talk to you.",
+    "On the other hand is scabs!",
+    "Have at it thomas!!!!!!",
+    "I have scabies.",
+    "Meat has calcium in it.",
+    "Remember the boat! HaHaHaHa!!!",
+    "Because you eat too much lettuce",
+    "Those hamsters...",
+    "It's hilarious - Those kids need to take baths",
+    "Yes, I've got cabbage patch kids disease",
+    "What if i were to ask you a hypothetical question?",
+    "No, I don't skip anymore.",
+    "How about a Rhetorical question?",
+    "Yes, but ask me 5 times so I can eat.",
+    "11% is good for a guy with one leg, No?",
+    "\"When do you think he will be back?\" Diana said.",
+    "We have time to marinate the steaks.",
+    "Yeah, 73 minutes later... Rocky, is that you??",
+    "I must have busted the damn flywheel.",
+    "I wish I had my economics book right now.",
+    "Drywall on the right, pancakes on the right, dogs to the left.",
+    "This trailer's a friggin mess I tell ya.",
+    "My maximum propensity to consume is pretty high right now.",
+    "It's all about the gross national product.",
+    "I have a bad case of Toboggan toe.",
+    "Random acts of nodular spores... they can do such damage.",
+    "But where does the mustard go, eh??",
+    "NO, no, no. your doing this all wrong... the grain of the wood follows the blade of the saw.",
+    "Bye jeff, I'm suffocating.",
+    "Some will tell you I have a defecation infatuation. .",
+    "About 72 minutes remaining.",
+    "When the soups hot, ya just can't get much better beef!",
+    "I'm so depressed because of that incident.",
+    "Do you have a Skin Dot?",
+    "I just ate a whole stick of butter.",
+    "I have many on my backs.",
+    "Wow... that's a LOT of butter.",
+    "That's it!  You're grounded from playing in the highway!",
+    "I'm going to deplete your bone marrow by 54%.",
+    "I have meal worms.",
+    "I have David Hasslehoff disease.",
+    "Is your brother asleep?",
+    "See you later, Thomas the carborater.",
+    "I'm inside a tree.",
+    "Yep, adios Raul Savage - keeper of the fruit.",
+    "Headcheese in public!",
+    "Won't happen, I grated it all this morning.",
+    "I pulled up to the house about 7 or 8 and I yelled.",
+    "Are your arms all curled up?",
+    "When i got the name.",
+    "Are you curled up in the fetal position?",
+    "Crying, like a little wuss?",
+    "So, hows thomas?",
+    "Thirty, the meat is not here.",
+    "Where did you get a leg?",
+    "That's no lawnmower for me!",
+    "I have never gone, thanks.",
+    "You don't live in texas!",
+    "Am I right about the hotdog?",
+    "No, the clown.",
+    "Tell me where your dad went.",
+    "But i know sign language.",
+    "Then why did you have the pig roast?",
+    "Do you have somthing against an old man?",
+    "You're just some fat slob!",
+    "Jesus! I have never kissed a boy!",
+    "Do you have mustard stains on your chin, fatty?",
+    "Yeah, I hate you!",
+    "Leave this house?",
+    "I come to eat, not to play bingo, sally.",
+    "Who's the left handed one now? hahahah!",
+    "Can I borrow that cheese?",
+    "\"The machine of the future\" said nicholas.",
+    "No, shut the hell up.",
+    "I wish you were haitian.",
+    "Your father has colon cancer!",
+    "Daughter of the gonad!",
+    "...A day for the whole dog.",
+    "Eat your whole neck, Bobby.",
+    "Do you wanna get slapped??",
+    "Yeah, you're a sloth farmer.",
+    "Only plastic.",
+    "Why not shave your tounge already?",
+    "Oh, my point exactly.",
+    "No pun intended!",
+    "Hey maggot lips...",
+    "Do I look ulgy to you?",
+    "I'm not adlibbing",
+    "I like the \"Meatvest\"",
+    "You could say it's my life.",
+    "I sleep on a bed of meat.",
+    "What's a meat vest?",
+    "Oh, because they like to eat.",
+    "I've never owned a fish.",
+    "The president is a sissy!",
+    "Do you like squid?",
+    "What do you think about metal dogs?",
+    "Who's ya daddy?",
+    "Do you have a bed?",
+    "Do you talk to the cheese?",
+    "My house has one wall.",
+    "My shoes are made of butter.",
+    "The lettuce is nice.",
+    "Oh, Thanks, you maggot!",
+    "You better not talk if you know what's good for you.",
+    "Cats will prevail.",
+    "What's the gig?",
+    "Talk to me little boy.",
+    "Do you wear a cape?",
+    "Murder goth kids.",
+    "This is all part of a bigger plan.",
+    "I have a clear dad.",
+    "Bears are the master race.",
+    "Electronic pigs dance wildly!",
+    "I have wooden teeth.",
+    "Ok, ok, ok... I'll leave.",
+    "The crow is the anwser!",
+    "Give me onions, or give me death.",
+    "Vegatation of the artic!",
+    "Cut his neck off!",
+    "But to have it happen to my own neck...",
+    "I like many shapes, 5 isn't one of them.",
+    "Please leave this cat here with me.",
+    "I will take good care of your yeti, Ms. Gordon.",
+    "The ham jack?",
+    "Take my other pants.",
+    "Who has a box?"
+  ],
+  "source_sha256": "65823b9b2f5d0ac54aef42659fa95f775eaeabfca809af019b092f598eb628d8",
+  "insult_groups": [
+    [
+      "you are a",
+      "you are a",
+      "your mom is a",
+      "your dad is a",
+      "your sister is a",
+      "your brother is a"
+    ],
+    [
+      "stupid",
+      "dumb",
+      "retarded",
+      "selfish",
+      "home less",
+      "disorented",
+      "purple",
+      "bloody",
+      "bloody",
+      "cut up",
+      "look a like of a",
+      "smelly",
+      "sticky",
+      "slimy",
+      "wet",
+      "hairy",
+      "scab covered",
+      "grave robbing",
+      "shop lifting",
+      "child molesting",
+      "record collecting",
+      "car driving",
+      "ugly ass",
+      "big mouth",
+      "sick",
+      "funny",
+      "beef eating",
+      "cat petting",
+      "teeth growing",
+      "salt licking",
+      "nor weje an",
+      "green",
+      "pus covered",
+      "sore covered",
+      "weak",
+      "small",
+      "big",
+      "large",
+      "skinny",
+      "greasy",
+      "gullable",
+      "gutter surfing",
+      "candy eating",
+      "lizard owning",
+      "stump grinding",
+      "rabbit making",
+      "retchid",
+      "horible",
+      "smiling",
+      "devil worshipping",
+      "satanic",
+      "boring",
+      "impressive",
+      "moldy",
+      "happy",
+      "sad",
+      "pissed",
+      "mad",
+      "angry"
+    ],
+    [
+      "muppet loving",
+      "fat",
+      "naked",
+      "jumpeng",
+      "running",
+      "leaking",
+      "painted",
+      "studdering",
+      "working",
+      "spanish",
+      "american",
+      "mexican",
+      "japanese",
+      "shit eating",
+      "dead body eating",
+      "lawn mowing",
+      "hard",
+      "ignorant",
+      "apathetic",
+      "hot headed",
+      "mullet wearing",
+      "bike riding",
+      "truck driving",
+      "drug using",
+      "chain smoking",
+      "crack smoking",
+      "hole digging",
+      "ill",
+      "shit talking",
+      "excited",
+      "hair cutting",
+      "gutter surfing",
+      "circus working",
+      "tatoo covered",
+      "bloody old",
+      "dirty foot",
+      "dirty",
+      "crappy",
+      "5 year old",
+      "10 year old",
+      "17 year old",
+      "2 year old",
+      "100 year old",
+      "factory working",
+      "animal loving",
+      "dumb as rocks",
+      "monkey faced",
+      "cro magnum",
+      "slobbering",
+      "snarling",
+      "heavy breetheng",
+      "grunting",
+      "shaking",
+      "convulsing",
+      "vomiting",
+      "sweating",
+      "bleeding",
+      "salivating",
+      "dying",
+      "living",
+      "pink",
+      "soft",
+      "rough",
+      "smooth",
+      "flexable",
+      "depressing",
+      "magnetic",
+      "smart"
+    ],
+    [
+      "chicken",
+      "girl",
+      "boy",
+      "robot",
+      "creep",
+      "moron",
+      "idiot",
+      "retard",
+      "football player",
+      "monster",
+      "meat face",
+      "dog farmer",
+      "squid face",
+      "old man",
+      "butthole",
+      "mullet loving blowhole",
+      "scummy",
+      "scumbag with a wet mullet",
+      "jock",
+      "liar",
+      "hill troll",
+      "cave dwelling scumbag",
+      "jacknut",
+      "bigmouth",
+      "dick",
+      "bookworm",
+      "snake",
+      "crazy cat lady",
+      "landshark",
+      "blowhole",
+      "scoundrel",
+      "blowhole",
+      "pirate",
+      "chum bucket",
+      "skaly wag",
+      "manface",
+      "typist",
+      "programmer",
+      "plastic cat",
+      "flat foot",
+      "dirty old man with a greasy blonde mullet",
+      "old woman",
+      "old woman",
+      "fisherman",
+      "chef",
+      "scuba diver with a feathered mullet",
+      "horse face",
+      "killer",
+      "coach",
+      "meat packer",
+      "electrician with a faded mullet",
+      "fireman",
+      "junkie",
+      "pot head",
+      "metal head with a nasty mullet",
+      "hippy",
+      "sea hag",
+      "wood chuck",
+      "aardvark",
+      "weasel",
+      "chipmunk",
+      "sasquotch",
+      "cave man",
+      "dancer",
+      "fat ass",
+      "vaso leen",
+      "hunchback with a ten ninety",
+      "gofer",
+      "janitor with a stillbee"
+    ]
+  ],
+  "noise_groups": [
+    [
+      "aeeuuioou",
+      "auiii",
+      "oaeooieiuu",
+      "uiiuoaoeee",
+      "eaail",
+      "aailaaii"
+    ],
+    [
+      "euieeiiuu",
+      "eiiiaaaa",
+      "aaaa",
+      "oeeeolioee",
+      "oyoeeuuuaa",
+      "iieuyu"
+    ],
+    [
+      "iloio",
+      "iooiii",
+      "ioiyioo",
+      "aea",
+      "aeae",
+      "ueaeiii"
+    ],
+    [
+      "olllllaallloooaa",
+      "eaaeaaeeaa",
+      "eeuiieiaa",
+      "ooolaa",
+      "looooa",
+      "oni"
+    ]
+  ],
+  "original_layout": [
+    {
+      "text": "Hello, who is this?",
+      "x": 16,
+      "y": 128,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "Maybe",
+      "x": 232,
+      "y": 72,
+      "w": 97,
+      "h": 17
+    },
+    {
+      "text": "I will.",
+      "x": 232,
+      "y": 88,
+      "w": 97,
+      "h": 17
+    },
+    {
+      "text": "I don't know",
+      "x": 328,
+      "y": 40,
+      "w": 89,
+      "h": 17
+    },
+    {
+      "text": "I think so.",
+      "x": 328,
+      "y": 56,
+      "w": 89,
+      "h": 17
+    },
+    {
+      "text": "That is nice.",
+      "x": 328,
+      "y": 72,
+      "w": 89,
+      "h": 17
+    },
+    {
+      "text": "Wow, cool.",
+      "x": 328,
+      "y": 88,
+      "w": 89,
+      "h": 17
+    },
+    {
+      "text": "Hello",
+      "x": 416,
+      "y": 40,
+      "w": 97,
+      "h": 17
+    },
+    {
+      "text": "Goodbye",
+      "x": 416,
+      "y": 56,
+      "w": 97,
+      "h": 17
+    },
+    {
+      "text": "Thank you",
+      "x": 416,
+      "y": 72,
+      "w": 97,
+      "h": 17
+    },
+    {
+      "text": "You're welcome",
+      "x": 416,
+      "y": 88,
+      "w": 97,
+      "h": 17
+    },
+    {
+      "text": "Who?",
+      "x": 16,
+      "y": 40,
+      "w": 49,
+      "h": 33
+    },
+    {
+      "text": "What?",
+      "x": 16,
+      "y": 72,
+      "w": 49,
+      "h": 33
+    },
+    {
+      "text": "Where?",
+      "x": 64,
+      "y": 40,
+      "w": 49,
+      "h": 33
+    },
+    {
+      "text": "Why?",
+      "x": 64,
+      "y": 72,
+      "w": 49,
+      "h": 33
+    },
+    {
+      "text": "When?",
+      "x": 112,
+      "y": 40,
+      "w": 49,
+      "h": 33
+    },
+    {
+      "text": "How?",
+      "x": 112,
+      "y": 72,
+      "w": 49,
+      "h": 33
+    },
+    {
+      "text": "Well?",
+      "x": 160,
+      "y": 40,
+      "w": 49,
+      "h": 33
+    },
+    {
+      "text": "Now?",
+      "x": 160,
+      "y": 72,
+      "w": 49,
+      "h": 33
+    },
+    {
+      "text": "I just want to talk.",
+      "x": 232,
+      "y": 128,
+      "w": 137,
+      "h": 17
+    },
+    {
+      "text": "I am confused",
+      "x": 232,
+      "y": 144,
+      "w": 137,
+      "h": 17
+    },
+    {
+      "text": "I will be over soon.",
+      "x": 232,
+      "y": 160,
+      "w": 137,
+      "h": 17
+    },
+    {
+      "text": "I need to talk to you.",
+      "x": 232,
+      "y": 176,
+      "w": 137,
+      "h": 17
+    },
+    {
+      "text": "i have a cold",
+      "x": 232,
+      "y": 192,
+      "w": 137,
+      "h": 17
+    },
+    {
+      "text": "I have about 6 myself.",
+      "x": 232,
+      "y": 208,
+      "w": 137,
+      "h": 17
+    },
+    {
+      "text": "Why not?",
+      "x": 232,
+      "y": 224,
+      "w": 137,
+      "h": 17
+    },
+    {
+      "text": "Please calm down.",
+      "x": 376,
+      "y": 128,
+      "w": 137,
+      "h": 17
+    },
+    {
+      "text": "Please do not shout.",
+      "x": 376,
+      "y": 144,
+      "w": 137,
+      "h": 17
+    },
+    {
+      "text": "Please don't do that.",
+      "x": 376,
+      "y": 160,
+      "w": 137,
+      "h": 17
+    },
+    {
+      "text": "Please say something.",
+      "x": 376,
+      "y": 176,
+      "w": 137,
+      "h": 17
+    },
+    {
+      "text": "My car is broken.",
+      "x": 376,
+      "y": 192,
+      "w": 137,
+      "h": 17
+    },
+    {
+      "text": "What did you call me?",
+      "x": 376,
+      "y": 208,
+      "w": 137,
+      "h": 17
+    },
+    {
+      "text": "What did you say?",
+      "x": 376,
+      "y": 224,
+      "w": 137,
+      "h": 17
+    },
+    {
+      "text": "I have another question.",
+      "x": 232,
+      "y": 240,
+      "w": 281,
+      "h": 17
+    },
+    {
+      "text": "Like to do something this weekend?",
+      "x": 232,
+      "y": 256,
+      "w": 281,
+      "h": 17
+    },
+    {
+      "text": "Oh it is just a figure of speech.",
+      "x": 232,
+      "y": 272,
+      "w": 281,
+      "h": 17
+    },
+    {
+      "text": "I was wondering if you could help me.",
+      "x": 232,
+      "y": 288,
+      "w": 281,
+      "h": 17
+    },
+    {
+      "text": "I will call back tomorrow.",
+      "x": 232,
+      "y": 304,
+      "w": 281,
+      "h": 17
+    },
+    {
+      "text": "I'm returning your phone call.",
+      "x": 232,
+      "y": 320,
+      "w": 281,
+      "h": 17
+    },
+    {
+      "text": "Haa ha haaaa. that is funny",
+      "x": 232,
+      "y": 336,
+      "w": 281,
+      "h": 17
+    },
+    {
+      "text": "Hello, are you still there?",
+      "x": 16,
+      "y": 144,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "Do you know what time it is?",
+      "x": 16,
+      "y": 160,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "Do you have any dogs?",
+      "x": 16,
+      "y": 176,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "Do you have any children?",
+      "x": 16,
+      "y": 192,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "Do you have bikes?",
+      "x": 16,
+      "y": 208,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "Don't you remember me?",
+      "x": 16,
+      "y": 224,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "Do you dance?",
+      "x": 16,
+      "y": 240,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "Can I come over?",
+      "x": 16,
+      "y": 256,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "Can I talk to someone else?",
+      "x": 16,
+      "y": 272,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "Are you busy tonight?",
+      "x": 16,
+      "y": 288,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "Can we meet?",
+      "x": 16,
+      "y": 304,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "Can I ask you a question?",
+      "x": 16,
+      "y": 320,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "About how long does that take?",
+      "x": 16,
+      "y": 336,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "Will you be there?",
+      "x": 16,
+      "y": 352,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "Can i speak with a manager?",
+      "x": 16,
+      "y": 368,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "What time are you open until?",
+      "x": 16,
+      "y": 384,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "Is that OK?",
+      "x": 16,
+      "y": 400,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "Is *random name* there?",
+      "x": 16,
+      "y": 416,
+      "w": 193,
+      "h": 17
+    },
+    {
+      "text": "Robots are very strong.",
+      "x": 232,
+      "y": 352,
+      "w": 281,
+      "h": 17
+    },
+    {
+      "text": "I'm selling robot insurance.",
+      "x": 232,
+      "y": 368,
+      "w": 281,
+      "h": 17
+    },
+    {
+      "text": "Send me some parts.",
+      "x": 232,
+      "y": 384,
+      "w": 281,
+      "h": 17
+    },
+    {
+      "text": "There is a reason for all of this.",
+      "x": 232,
+      "y": 400,
+      "w": 281,
+      "h": 17
+    },
+    {
+      "text": "I'm not joking around anymore.",
+      "x": 232,
+      "y": 416,
+      "w": 281,
+      "h": 17
+    },
+    {
+      "text": "Fuck you!",
+      "x": 536,
+      "y": 40,
+      "w": 89,
+      "h": 17
+    },
+    {
+      "text": "Shut up.",
+      "x": 536,
+      "y": 56,
+      "w": 89,
+      "h": 17
+    },
+    {
+      "text": "Asshole",
+      "x": 536,
+      "y": 72,
+      "w": 89,
+      "h": 17
+    },
+    {
+      "text": "Eat my shit.",
+      "x": 536,
+      "y": 88,
+      "w": 89,
+      "h": 17
+    },
+    {
+      "text": "Go to hell.",
+      "x": 536,
+      "y": 104,
+      "w": 89,
+      "h": 17
+    }
+  ]
+}
