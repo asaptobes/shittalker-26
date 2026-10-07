@@ -1,37 +1,50 @@
-# ShitTalker 26 — Original Voice Edition
+# Shit Talker 2026
 
-Run **ShitTalker26.exe**. Keep this entire folder together. This is the first native Windows 11 frontend, using the original 16-bit SoftVoice/Willow Pond DocTalker engine through portable WineVDM 0.9.0.
+**by: asaptobes** — based on the original **Shit Talker 1.2: by jaundice** (1999)
 
-## Use
+A Windows 11 remake of the classic prank text-to-speech soundboard. It keeps the original 640×480-era look and talks with the **real** 16-bit SoftVoice / Willow Pond DocTalker voice, not a modern substitute.
 
-- Type text and click **Speak**, or press **Ctrl+Enter**.
-- Click an original phrase to speak it immediately. The field above the buttons filters the list.
-- **Random original line** selects one of 135 recovered original lines.
-- **Random insult** selects a lead-in, two descriptions, and a noun from the original tables, joins them with spaces, and speaks the result.
-- **Sicko noise** joins four randomly selected original vowel fragments with no spaces, then speaks them through the original engine.
-- **Quick boxes** provides five saved text fields.
-- **16 custom buttons**: click an empty button to configure it; right-click an existing button to edit it.
-- **Voice settings** opens the original voice controls (model, pitch, rate, contour, gender, quality). Save named voices in that dialog as needed.
-- **Stop / restart voice** interrupts speech by restarting this application's engine. Unsaved voice adjustments reset.
+## Running it
 
-Quick boxes and custom buttons save on exit to `%LOCALAPPDATA%\ShitTalker26\settings.json`. The previous settings are retained as `settings.json.bak`. On first launch, original `app\prog.ini` values are imported.
+Run **ShitTalker26.exe** and keep the whole folder together. The app needs `app\`, `runtime\` and `phrases.json` next to the exe.
 
-## What is preserved
+Requirements: Windows 10/11 x64, .NET Framework 4.x (built into Windows), and the x86 Visual C++ runtime (needed by WineVDM).
 
-The supplied original binaries are unchanged. Speech uses the real `DOC.EXE`, `SVTTS.DLL`, and `SVTRAN.DLL`, not a modern substitute voice. The original voice was audibly confirmed on this computer. The frontend controls the engine's text and Test controls directly instead of sending keystrokes to whatever window has focus.
+## Using it
 
-64 phrase buttons and 135 random lines were recovered from the original binary. The insult and sicko-noise generators use recovered VB3 string tables and concatenation structure, including short entries and duplicates. Selection uses .NET's random generator; the original VB3 seed sequence and numeric rounding probabilities have not been reproduced. Name substitution remains unimplemented. The original 640×480 interface has been replaced with a resizable native interface.
+- **Phrase buttons:** click any button in Questions, Statements/responses, This:, or the two long lists to speak it straight away.
+- **Hi, can I talk to … please?** Type a name in the black box. Click either button (or press Enter in the box) to ask for that person.
+- **This is/ and I'm:** type your name in the second black box, then click to introduce yourself.
+- **Jam radar!** speaks one of 135 random lines recovered from the original.
+- **Random Insult** builds an insult from the original word tables.
+- **Sicko noise** strings together four of the original vowel noises.
+- **Quick Boxes:** type anything and click **Say it...** (or press Ctrl+Enter in the box).
+- **Options → Custom buttons...** opens the 16 programmable buttons from v1.2. Click an empty button to set it up, or right-click any button to edit it.
+- **Options → Voice settings...** opens the original voice controls (model, pitch, rate, gender and more).
+- **Restart DocTalker** restarts the speech engine if it stops talking, just like the original. Unsaved voice tweaks are reset.
 
-## Requirements and provenance
+Quick Boxes and custom buttons are saved on exit to `%LOCALAPPDATA%\ShitTalker26\settings.json`. The previous copy is kept as `settings.json.bak`. On first launch, values from the original `app\prog.ini` are imported.
 
-Tested on this x64 Windows 11 computer with the existing .NET Framework 4.x. WineVDM requires the x86 Visual C++ runtime. No system-wide Win16 file association or compatibility driver is installed.
+## Building
 
-- Original application: Shit-Talker 1.2 by jaundice, supplied by the user. Original readme: `app\README.TXT`.
-- Original speech engine: SoftVoice / Willow Pond. Existing copyright notices remain in the binaries.
-- Compatibility runtime: https://github.com/otya128/winevdm/releases/tag/v0.9.0. License is included under `runtime\otvdm-v0.9.0\LICENSE`; corresponding upstream source is available at that tag.
+The source is a single file, `src\Program.cs` (WinForms, C# 5). Close the app first, then run this from the project folder:
 
-This folder is a local prototype, not a public redistribution package. Redistribution rights for the old application and voice binaries have not been established.
+```powershell
+powershell -ExecutionPolicy Bypass -File .\tools\build.ps1
+```
 
-## Build
+This uses the .NET Framework compiler built into Windows, so no Visual Studio is needed. It writes `ShitTalker26.exe` into the project folder.
 
-Source is in `src\Program.cs`. From the workspace root run `tools\build.ps1` using the Windows .NET Framework compiler. Close ShitTalker 26 before rebuilding. Phrase extraction is in `tools\extract_phrases.py`.
+## How it works
+
+The front end starts the original `DOC.EXE` hidden, through the portable WineVDM runtime. It then puts text into the engine's own text field and presses its Test button directly. No keystrokes are sent to other windows.
+
+The phrase lists, random lines and generator tables in `phrases.json` were recovered from the original binary. Random choices use .NET's random generator, not the original VB3 sequence. `*random name*` substitution is not implemented.
+
+## Credits & licensing
+
+- **Original Shit-Talker 1.2:** jaundice (http://members.aol.com/meatsloth). Original readme: `app\README.TXT`.
+- **Speech engine:** SoftVoice / Willow Pond DocTalker. Copyright notices remain in the binaries.
+- **Compatibility runtime:** [WineVDM / otvdm v0.9.0](https://github.com/otya128/winevdm/releases/tag/v0.9.0). License in `runtime\otvdm-v0.9.0\LICENSE`.
+
+The original application and voice binaries in `app\` are unchanged. Redistribution rights for them have not been established, so this is a personal project and not an official release.
